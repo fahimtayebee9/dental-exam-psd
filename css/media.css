@@ -1,0 +1,2192 @@
+@media(max-width: 1920px){
+    .banner-welcome {
+        background-position: bottom left;
+        background-size: 670px;
+        /* margin-left: 50px; */
+    }
+    .flw{
+        padding-left: 0;
+    }
+    .list{
+        padding-right: 0;
+    }
+}
+@media(max-width: 1771px){
+    .banner-welcome {
+        background-position: bottom left;
+        background-size: 635px;
+        /* margin-left: 50px; */
+    }
+}
+@media(max-width: 1651px){
+    .banner-welcome {
+        background-position: bottom left;
+        background-size: 540px;
+    }
+}
+@media(max-width: 1440px){
+    .banner-welcome{
+        background-size: 470px;
+        background-position: bottom left;
+    }
+    .bgv{
+        padding: 100px 0px;
+    }
+    .flw{
+        padding-left: 0px;
+    }
+}
+@media(max-width: 1199px){
+    .topBar{
+        padding: 10px 0px;
+    }
+    .topBar a{
+        width: 35%;
+    }
+    .topBar .hg .icon i{
+        font-size: 18px;
+    }
+    .topBar .text {
+        padding: 14px 10px;
+        padding-left: 0;
+    }
+    .topBar .hg .text h5{
+        font-size: 16px;
+    }
+    .topBar .hg .text p{
+        font-size: 12px;
+    }
+    .topBar .navbar-light .navbar-nav .nav-link {
+        padding: 18px 0px;
+    }
+    .appoinment a{
+        font-size: 14px;
+    }
+    .menuBar{
+        padding: 8px 0px;
+    }
+    .menuBar .hover-ani{
+        font-size: 14px!important;
+    }
+    .menuBar .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        text-transform: uppercase;
+        z-index: 999;
+        padding: 8px 10px;
+    }
+    .appoinment .hover-ani {
+        padding: 0px 10px;
+    }
+    .appoinment i {
+        padding: 11px 0px;
+    }
+
+    /* Banner part */
+
+    .banner {
+        min-height: 70vh;
+    }
+    .bnr h2 {
+        font-size: 24px;
+    }
+    .bnr h1{
+        font-size: 30px;
+    }
+    .bnr p {
+        font-size: 15px;
+    }
+    .bnr .button a {
+        font-size: 15px;
+        padding: 8px 12px;
+    }
+    .bnr .btn-book{
+        margin-left: 10px;
+    }
+    .banner i{
+        font-size: 12px;
+    }
+    .banner .right {
+        padding: 2px 5px;
+        top: 45%;
+    }
+    .banner .left {
+        padding: 2px 5px;
+        top: 45%;
+    }
+
+    /* Banne Welcome */
+
+    .banner-welcome {
+        margin-top: 0px;
+        margin-left: 20px;
+        background-position: bottom left;
+        background-size: 405px;
+    }
+    
+    .banner-welcome h1 {
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .banner-welcome p {
+        font-size: 14px;
+    }
+    .bgv{
+        padding: 56px 0px;
+    }
+    .content {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+    .content .col-sm-6{
+        padding: 0;
+        padding-right: 14px;
+    }
+    .content i {
+        font-size: 20px;
+    }
+    .content h5 {
+        font-size: 17px;
+    }
+    .content p {
+        font-size: 14px;
+    }
+
+    /* meet doctors */
+    .meetourdoctor {
+        padding: 60px 0px;
+    }
+    .vb i {
+        font-size: 24px;
+    }
+    .vb h1 {
+        font-size: 30px;
+    }
+    .vb p {
+        font-size: 16px;
+    }
+    .mainprobox {
+        padding: 0px;
+    }
+    .pro-box {
+        border-bottom: 4px solid #00cce1;
+        margin-top: 20px;
+    }
+    .profile {
+        text-align: center;
+        padding: 12px 0;
+    }
+    .profile h5 {
+        font-size: 20px;
+    }
+    .profile p {
+        font-size: 14px;
+    }
+    .pro-box .icon-box ul{
+        padding: 0;
+    }
+    .icon-box ul li:first-child {
+        padding: 1px 5px;
+    }
+    .icon-box ul li {
+        padding: 1px 3px;
+        /* margin: 2px; */
+    }
+    
+    .icon-box ul li:last-child {
+        padding: 3px 3px;
+    }
+    .pro-box:hover {
+        border-bottom: 4px solid #f69165;
+    }
+
+    /* Our Services */
+    .ourservices {
+        padding: 50px 0px;
+        color: #5e5e5e;
+    }
+
+    .rw{
+        margin-top: 20px;
+    }
+    .service {
+        padding: 10px 12px;
+    }
+    .service a {
+        font-size: 12px;
+    }
+    .service p {
+        font-size: 14px;
+        padding-top: 8px;
+    }
+    .icon i {
+        font-size: 25px;
+        padding-right: 10px;
+    }
+    .icon h5 {
+        font-size: 20px;
+    }
+    
+    /* Our plan */
+
+    .ourplan {
+        padding: 50px 0px;
+    }
+    .plan {
+        padding: 25px 0px;
+    }
+    .plan h3 {
+        font-size: 22px;
+    }
+    .plan p {
+        font-size: 14px;
+    }
+    .benifit p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .benifit p:last-child {
+        margin-bottom: 20px;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+    .price h1 {
+        font-size: 38px;
+        padding-top: 16px;
+    }
+    .price p {
+        font-size: 14px;
+    }
+    .plan .btn-signup {
+        padding: 6px 25px;
+        font-size: 16px;
+    }
+
+    /* Logo area */
+    .logoArea{
+        padding: 50px 0px;
+    }
+    .logoArea .rw{
+        margin-top: 35px;
+    }
+    .logoArea i {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .logoArea h1{
+        font-size: 40px;
+    }
+    .logoArea p{
+        font-size: 18px;
+    }
+    .logocon .left i {
+        font-size: 16px;
+        margin: 0;
+    }
+    .logocon .left {
+        padding: 3px 8px;
+        top: 58%;
+    }
+    .logocon .right i {
+        font-size: 16px;
+        margin: 0;
+    }
+    .logocon .right {
+        padding: 3px 8px;
+        top: 58%;
+    }
+    /* Post area */
+    .post{
+        padding: 50px 0px;
+        text-align: left!important;
+    }
+    .contactdetails{
+        padding: 20px 0px;
+    }
+    .contactdetails .icon i {
+        font-size: 18px;
+    }
+    .post img {
+        padding-bottom: 45px;
+        width: 62%!important;
+        margin: auto;
+    }
+    .post p {
+        font-size: 14px;
+    }
+    .location .icon {
+        padding: 10px 0px;
+    }
+    .location .text{
+        padding: 0;
+    }
+    .mp{
+        padding-bottom: 40px;
+    }
+    .phonecall .icon {
+        padding: 10px 0px;
+    }
+    .phonecall .text{
+        padding: 0;
+    }
+    .contactdetails h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin: 0;
+        text-align: left!important;
+    }
+    .contactdetails p{
+        font-size: 14px;
+    }
+    .mail .icon {
+        padding: 10px 0px;
+    }
+    .mail .text{
+        padding: 0;
+    }
+    .mp h1{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .recentpost .pr{
+        display: flex;
+        padding-bottom: 0px;
+    }
+    .recentpost img {
+        /* padding-top: 20px; */
+        padding-bottom: 10px;
+        /* display: block; */
+        width: 24%!important;
+        min-height: 30%!important;
+        /* margin: auto; */
+    }
+    .recentpost .text p{
+        font-size: 14px!important;
+        text-align: left!important;
+        margin: 0;
+    }
+    .recentpost span {
+        font-size: 11px;
+    }
+    .txt input::placeholder{
+        color: #3d3d3d;
+        font-weight: 700;
+        font-size: 12px;
+    }
+    .cnt {
+        margin: 0!important;
+    }
+    .flw{
+        padding-left: 0;
+    }
+    .followlink h4{
+    font-size: 16px;
+    margin-top: 7px;
+    font-weight: 700;
+    }
+    .followlink ul li {
+        background-color: #323232;
+        padding: 4px 10px;
+    }
+    .followlink ul li a{
+        font-size: 10px;
+        color:white
+    }
+    .followlink ul li:hover{
+    background-color: #f69165;
+    }
+    .txt input::placeholder{
+    color: #3d3d3d;
+    font-weight: 700;
+    }
+    .followlink{
+    padding: 0;
+    }
+    .btn-custom {
+        padding: 9px 20px;
+        margin: auto;
+        font-size: 12px!important;
+    }
+    footer p {
+        font-size: 14px;
+    }
+}
+@media(max-width: 1066px){
+    .banner-welcome{
+        background-size: 400px;
+    }
+}
+@media(max-width: 991px){
+    .topBar{
+        padding: 10px 0px;
+    }
+    .topBar .icon i {
+        font-size: 18px;
+        color: #f69165;
+        margin-top: 8px;
+        margin-right: 5px;
+    }
+    .tphd{
+        padding: 20px 0px;
+    }
+    .ctm h5{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .ctm p{
+        font-size: 11px;
+        margin: 0;
+    }
+    .menuBar{
+        padding: 8px 0px;
+    }
+    .menuBar .hover-ani{
+        font-size: 14px!important;
+    }
+    .menuBar .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+        text-transform: uppercase;
+        z-index: 999;
+        padding: 8px 10px;
+    }
+    .appoinment .hover-ani {
+        padding: 0px 10px;
+    }
+    .appoinment a{
+        font-size: 14px;
+    }
+    .appoinment i {
+        padding: 13px 0px;
+    }
+
+    /* Banner part */
+
+    .banner {
+        min-height: 90vh;
+    }
+    .bnr{
+        text-align: center!important;
+        justify-content: center;
+    }
+    .bnr h2 {
+        font-size: 26px;
+    }
+    .bnr h1{
+        font-size: 30px;
+    }
+    .bnr p {
+        font-size: 16px;
+    }
+    .bnr .button a{
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .bnr .btn-book{
+        margin-left: 10px;
+    }
+    .banner i{
+        font-size: 12px;
+    }
+    .banner .right {
+        padding: 2px 7px;
+        top: 45%;
+    }
+    .banner .left {
+        padding: 2px 7px;
+        top: 45%;
+    }
+
+    /* Banne Welcome */
+
+    .banner-welcome {
+        margin-top: 0px;
+        margin-left: 20px;
+        background-position: bottom left;
+        background-size: 364px;
+    }
+    .bgv{
+        /* justify-content: center!important; */
+        text-align: left;
+    }
+    .banner-welcome h1 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .banner-welcome p {
+        font-size: 12px;
+    }
+
+    .content {
+        padding-top: 15px;
+        padding-bottom: 0px;
+        text-align: left;
+    }
+    .content i {
+        font-size: 20px;
+    }
+    .content h5 {
+        font-size: 17px;
+    }
+    .content p {
+        font-size: 11px;
+    }
+
+    /* meet doctors */
+    .meetourdoctor {
+        padding: 40px 0px;
+    }
+    .vb i {
+        font-size: 24px;
+    }
+    .vb h1 {
+        font-size: 30px;
+    }
+    .vb p {
+        font-size: 12px;
+    }
+    .mainprobox {
+        padding: 0px;
+    }
+    .pro-box {
+        border-bottom: 4px solid #00cce1;
+        margin-top: 20px;
+    }
+    .profile {
+        text-align: center;
+        padding: 12px 0;
+    }
+    .profile h5 {
+        font-size: 14px;
+    }
+    .profile p {
+        font-size: 12px;
+    }
+    .icon-box ul li:first-child {
+        padding: 1px 5px;
+    }
+    .icon-box ul li {
+        padding: 1px 3px;
+        /* margin: 2px; */
+    }
+    
+    .icon-box ul li:last-child {
+        padding: 3px 3px;
+    }
+    .pro-box:hover {
+        border-bottom: 4px solid #f69165;
+    }
+
+    /* Our Services */
+    .ourservices {
+        padding: 50px 0px;
+        color: #5e5e5e;
+    }
+
+    .rw{
+        margin-top: 20px;
+    }
+    .service {
+        padding: 10px 12px;
+    }
+    .service a {
+        font-size: 12px;
+    }
+    .service p {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+    .icon{
+        justify-content: center;
+    }
+    .icon i {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    .icon h5 {
+        font-size: 15px;
+    }
+    
+    /* Our plan */
+
+    .ourplan {
+        padding: 50px 0px;
+    }
+    .plan {
+        padding: 25px 0px;
+    }
+    .plan h3 {
+        font-size: 22px;
+    }
+    .plan p {
+        font-size: 14px;
+    }
+    .benifit p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .benifit p:last-child {
+        margin-bottom: 20px;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+    .price h1 {
+        font-size: 38px;
+        padding-top: 16px;
+    }
+    .price p {
+        font-size: 14px;
+    }
+    .plan .btn-signup {
+        padding: 6px 25px;
+        font-size: 16px;
+    }
+
+    /* Logo area */
+    .logoArea {
+        padding: 50px 0px;
+        min-height: 45vh;
+    }
+    .logoArea .rw{
+        margin-top: 35px;
+    }
+    .logoArea i {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .logoArea h1{
+        font-size: 32px;
+    }
+    .logoArea p{
+        font-size: 16px;
+    }
+    .logocon .left i {
+        font-size: 14px;
+        margin: 0;
+    }
+    .logocon .left {
+        padding: 0px 5px;
+        top: 70%;
+    }
+    .logocon .right i {
+        font-size: 14px;
+        margin: 0;
+    }
+    .logocon .right {
+        padding: 0px 5px;
+        top: 70%;
+    }
+    /* Post area */
+    .post{
+        padding: 50px 0px;
+        text-align: left!important;
+    }
+    .contactdetails{
+        padding: 20px 0px;
+    }
+    .contactdetails .icon i {
+        font-size: 16px;
+    }
+    .post img {
+        padding-bottom: 50px;
+        width: 75%!important;
+        margin: auto;
+    }
+    .post p {
+        font-size: 12px;
+        text-align: left!important;
+    }
+    .contactdetails .icon {
+        padding: 6px 0px;
+    }
+    .location .text{
+        padding: 0;
+    }
+    .mp{
+        padding-bottom: 40px;
+    }
+    .phonecall .text{
+        padding: 0;
+    }
+    .contactdetails h5 {
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0;
+        text-align: left!important;
+    }
+    .contactdetails p{
+        font-size: 12px;
+    }
+    .mail .text{
+        padding: 0;
+    }
+    .mp h1{
+        font-size: 26px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .recentpost{
+        text-align: center!important;
+    }
+    .recentpost .pr{
+        display: flex;
+        padding-bottom: 10px;
+    }
+    .recentpost img {
+        /* padding-top: 20px; */
+        padding-bottom: 10px;
+        /* display: block; */
+        width: 30%!important;
+        min-height: 30%!important;
+        /* margin: auto; */
+    }
+    .recentpost .text p{
+        font-size: 12px!important;
+        text-align: left!important;
+        margin: 0;
+    }
+    .recentpost span {
+        font-size: 8px;
+    }
+    .input-group {
+        display: flex;
+    }
+    .flw {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .list {
+        padding-right: 0;
+    }
+    .cnt {
+        margin: 0!important;
+    }
+    .txt input::placeholder{
+        color: #3d3d3d;
+        font-weight: 700;
+        font-size: 12px;
+    }
+    .followlink h4{
+        font-size: 12px;
+        margin-top: 10px;
+        font-weight: 700;
+    }
+    .followlink ul li {
+        background-color: #323232;
+        padding: 4px 6px;
+    }
+    .followlink ul li a{
+        font-size: 10px;
+        color:white
+    }
+    .followlink ul li:hover{
+        background-color: #f69165;
+    }
+    .txt input::placeholder{
+        color: #3d3d3d;
+        font-weight: 700;
+    }
+    .followlink{
+        padding: 0;
+    }
+    input[type="text"]::placeholder{
+        font-size: 10px;
+    }
+    .btn-custom {
+        padding: 10.5px 8px;
+        margin: auto;
+        margin-top: 0px;
+        font-size: 10px!important;
+    }
+    /* footer */
+    footer p{
+        font-size: 14px;
+    }
+}
+@media(max-width: 870px){
+    .banner-welcome{
+        background-size: 318px;
+    }
+    .banner {
+        min-height: 65vh;
+    }
+    .mainprobox {
+        padding: 0px;
+    }
+    .flw {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .list {
+        padding-right: 0;
+    }
+}
+@media(max-width: 767px){
+    *{
+        text-align: center!important;
+    }
+    .topBar{
+        padding: 0;
+    }
+    .tphd{
+        padding: 30px 0px;
+    }
+    .tphd img{
+        margin: auto;
+        width: 60%!important;
+    }
+    .tphd .col-sm-7{
+        margin: auto;
+    }
+    .tphd .col-sm-8{
+        margin: auto;
+    }
+    .tphd ul{
+        display: flex;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        justify-content: space-between;
+    }
+    .cont{
+        padding-top: 15px;
+        margin: 0;
+    }
+    .ctm .icon{
+        display: block;
+    }
+    .ctm .icon i {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+    .ctm{
+        display: flex;
+    }
+    .ctm h5{
+        margin: 0;
+        font-size: 14px;
+        font-weight: 600;
+        text-align: left!important;
+    }
+    .ctm p{
+        font-size: 12px;
+        margin: 0;
+        text-align: left!important;
+    }
+    .topBar .hg .icon i{
+        font-size: 18px;
+    }
+    .topBar .text {
+        padding: 14px 10px;
+    }
+    .topBar .hg .text h5{
+        font-size: 16px;
+    }
+    .topBar .hg .text p{
+        font-size: 14px;
+    }
+    .topBar .navbar-light .navbar-nav .nav-link {
+        padding: 18px 0px;
+    }
+    .appoinment a{
+        font-size: 14px;
+    }
+    .menuBar{
+        padding: 5px 0px;
+    }
+    .menuBar .hover-ani{
+        font-size: 14px!important;
+    }
+    .menuBar .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+        z-index: 999;
+        padding: 8px 10px;
+    }
+    .navbar-toggler {
+        padding: 3px 5px;
+        font-size: 0.75rem;
+        line-height: 1;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: .25rem;
+    }
+    .appoinment .hover-ani {
+        padding: 0px 10px;
+    }
+    .appoinment i {
+        padding: 11px 0px;
+    }
+
+    /* Banner part */
+
+    .banner {
+        min-height: 60vh;
+    }
+    .bnr{
+        text-align: center!important;
+        justify-content: center;
+    }
+    .bnr h2 {
+        font-size: 20px;
+    }
+    .bnr h1{
+        font-size: 22px;
+    }
+    .bnr p {
+        font-size: 12px;
+    }
+    .bnr .button a{
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+    .bnr .btn-book{
+        margin-left: 10px;
+    }
+    .banner i{
+        font-size: 12px;
+    }
+    .banner .right {
+        padding: 2px 5px;
+        top: 45%;
+    }
+    .banner .left {
+        padding: 2px 5px;
+        top: 45%;
+    }
+
+    /* Banne Welcome */
+
+    .banner-welcome {
+        margin-top: 0px;
+        margin-left: 20px;
+        background-image: none;
+        background-position: bottom left;
+        background-size: 300px;
+        
+    }
+    .bgv{
+        justify-content: center!important;
+    }
+    .banner-welcome h1 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .banner-welcome p {
+        font-size: 12px;
+    }
+
+    .content {
+        padding-top: 15px;
+        padding-bottom: 0px;
+    }
+    .content i {
+        font-size: 20px;
+    }
+    .content h5 {
+        font-size: 17px;
+    }
+    .content p {
+        font-size: 11px;
+    }
+
+    /* meet doctors */
+    .meetourdoctor {
+        padding: 40px 0px;
+    }
+    .vb i {
+        font-size: 24px;
+    }
+    .vb h1 {
+        font-size: 30px;
+    }
+    .vb p {
+        font-size: 12px;
+    }
+    .mainprobox {
+        padding: 0px;
+    }
+    .pro-box {
+        border-bottom: 4px solid #00cce1;
+        margin-top: 20px;
+    }
+    .profile {
+        text-align: center;
+        padding: 12px 0;
+    }
+    .profile h5 {
+        font-size: 14px;
+    }
+    .profile p {
+        font-size: 12px;
+    }
+    .icon-box {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .icon-box ul li:first-child {
+        padding: 1px 5px;
+    }
+    .icon-box ul li {
+        padding: 1px 3px;
+        /* margin: 2px; */
+    }
+    
+    .icon-box ul li:last-child {
+        padding: 3px 3px;
+    }
+    .pro-box:hover {
+        border-bottom: 4px solid #f69165;
+    }
+
+    /* Our Services */
+    .ourservices {
+        padding: 30px 0px;
+        color: #5e5e5e;
+    }
+
+    .rw{
+        margin-top: 20px;
+    }
+    .service {
+        padding: 10px 12px;
+    }
+    .service a {
+        font-size: 12px;
+    }
+    .service p {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+    .icon{
+        justify-content: center;
+    }
+    .icon i {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+    .icon h5 {
+        font-size: 15px;
+    }
+    
+    /* Our plan */
+
+    .ourplan {
+        padding: 50px 0px;
+    }
+    .plan {
+        padding: 25px 0px;
+    }
+    .ourplan .rw{
+        justify-content: center;
+    }
+    .plan h3 {
+        font-size: 16px;
+    }
+    .plan p {
+        font-size: 12px;
+    }
+    .benifit p {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .benifit p:last-child {
+        margin-bottom: 20px;
+    }
+    .price {
+        margin-bottom: 16px;
+    }
+    .price h1 {
+        font-size: 30px;
+        padding-top: 10px;
+    }
+    .price p {
+        font-size: 14px;
+    }
+    .plan .btn-signup {
+        padding: 6px 25px;
+        font-size: 16px;
+    }
+
+    /* Logo area */
+    .logoArea {
+        padding: 50px 0px;
+        min-height: auto;
+    }
+    .logoArea .rw{
+        margin-top: 35px;
+    }
+    .logoArea i {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .logoArea h1{
+        font-size: 30px;
+    }
+    .logoArea p{
+        font-size: 15px;
+    }
+    .logocon .left i {
+        font-size: 12px;
+        margin: 0;
+    }
+    .logocon .left {
+        padding: 0px 5px;
+        top: 72%;
+    }
+    .logocon .right i {
+        font-size: 12px;
+        margin: 0;
+    }
+    .logocon .right {
+        padding: 0px 5px;
+        top: 72%;
+    }
+    /* Post area */
+    .post{
+        padding: 50px 0px;
+        text-align: left!important;
+        margin: auto;
+    }
+    .contactdetails{
+        padding: 20px 0px;
+    }
+    .post img {
+        padding-bottom: 34px;
+        width: 52%!important;
+        margin: auto;
+    }
+    .post p {
+        font-size: 12px;
+        text-align: center!important;
+    }
+    .location .icon {
+        padding: 8px 0px;
+    }
+    .location .text{
+        padding: 0;
+    }
+    .mp{
+        padding-bottom: 30px;
+    }
+    .phonecall .icon {
+        padding: 8px 0px;
+    }
+    .phonecall .text{
+        padding: 0;
+    }
+    .contactdetails h5 {
+        font-size: 14px;
+        font-weight: 600;
+        margin: 0;
+        text-align: left!important;
+    }
+    .contactdetails p{
+        font-size: 12px;
+    }
+    .mail .icon {
+        padding: 8px 0px;
+    }
+    .mail .text{
+        padding: 0;
+    }
+    .mp h1{
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+    }
+    .recentpost{
+        text-align: center!important;
+    }
+    .recentpost .pr{
+        display: flex;
+        padding-bottom: 10px;
+    }
+    .recentpost img {
+        /* padding-top: 20px; */
+        padding-bottom: 10px;
+        /* display: block; */
+        width: 27%!important;
+        /* min-height: 30%!important; */
+        /* margin: auto; */
+    }
+    .recentpost .text p{
+        font-size: 12px!important;
+        text-align: left!important;
+        margin: 0;
+    }
+    .recentpost span {
+        font-size: 10px;
+    }
+    .input-group {
+        display: flex;
+    }
+    .txt input::placeholder{
+        color: #3d3d3d;
+        font-weight: 700;
+        font-size: 12px;
+    }
+    .flw{
+        padding: 0;
+        margin: auto;
+    }
+    .list{
+        margin: auto;
+    }
+    .cnt {
+        margin: 0;
+    }
+    .cnt{
+        margin: auto!important;
+    }
+    .followlink h4 {
+        font-size: 14px;
+        margin-top: 0px;
+        font-weight: 700;
+        padding-bottom: 10px;
+    }
+    .followlink ul li {
+        padding: 4px 10px;
+    }
+    .followlink ul li a{
+        font-size: 10px;
+        color:white
+    }
+    .followlink ul li:hover{
+    background-color: #f69165;
+    }
+    .txt input::placeholder{
+    color: #3d3d3d;
+    font-weight: 700;
+    }
+    .followlink{
+        padding: 0;
+        margin: auto;
+    }
+    .btn-custom {
+        padding: 9px 20px;
+        margin: auto;
+        font-size: 12px!important;
+    }
+    /* footer */
+    footer p{
+        font-size: 12px;
+    }
+}
+@media (max-width: 575px){
+    *{
+        text-align: center;
+    }
+    .tphd {
+        padding: 10px 0px;
+    }
+    .tphd img {
+        margin: auto;
+        width: 47%!important;
+    }
+    .ctm h5 {
+        margin: 0;
+        font-size: 12px;
+    }
+    .ctm p {
+        font-size: 10px;
+        margin: 0;
+        text-align: left!important;
+    }
+    .ctm .icon i {
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .topBar{
+        padding: 10px 0px;
+    }
+    .topBar a{
+        width: 58%;
+    }
+    .topBar .hg .icon i{
+        font-size: 18px;
+    }
+    .topBar .hg .text h5{
+        font-size: 18px;
+    }
+    .topBar .hg .text p{
+        font-size: 14px;
+    }
+    .topBar .navbar-light .navbar-nav .nav-link {
+        padding: 18px 0px;
+    }
+    .appoinment a{
+        font-size: 14px;
+    }
+    .menuBar{
+        padding: 5px 0px;
+    }
+    .menuBar .hover-ani{
+        font-size: 14px!important;
+    }
+    .menuBar .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 14px;
+        font-weight: 600;
+        text-transform: uppercase;
+        z-index: 999;
+        padding: 8px 10px;
+    }
+    .appoinment .hover-ani {
+        padding: 0px 10px;
+    }
+    .appoinment i {
+        padding: 11px 0px;
+    }
+    .banner {
+        min-height: 50vh;
+    }
+    .bnr{
+        text-align: center!important;
+    }
+    .bnr h2 {
+        font-size: 18px;
+    }
+    .bnr h1{
+        font-size: 18px;
+    }
+    .bnr p {
+        font-size: 12px;
+    }
+    .bnr .button a{
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+    .bnr .btn-book{
+        margin-left: 10px;
+    }
+    .banner i{
+        font-size: 12px;
+    }
+    .banner .right {
+        padding: 2px 5px;
+        top: 45%;
+    }
+    .banner .left {
+        padding: 2px 5px;
+        top: 45%;
+    }
+
+    /* banner welcome */
+
+    .banner-welcome {
+        margin-top: 0px;
+        margin-left: 20px;
+        background-image: none;
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        min-height: 20vh;
+        position: relative;
+        text-align: center!important;
+    }
+    .bgv{
+        justify-content: center!important;
+    }
+    .banner-welcome h1 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+    .banner-welcome p {
+        font-size: 12px;
+    }
+    .content {
+        padding-bottom: 0px;
+    }
+    .content i {
+        font-size: 20px;
+    }
+    .content h5 {
+        font-size: 17px;
+    }
+    .content p {
+        font-size: 12px;
+    }
+
+    /* meet doctors */
+    .meetourdoctor {
+        padding: 40px 0px;
+    }
+    .vb i {
+        font-size: 24px;
+    }
+    .vb h1 {
+        font-size: 30px;
+    }
+    .vb p {
+        font-size: 12px;
+    }
+    .mainprobox {
+        /* padding: 25px; */
+    }
+    .pro-box {
+        border-bottom: 4px solid #00cce1;
+        margin-top: 20px;
+    }
+    .profile {
+        text-align: center;
+        padding: 12px 0;
+    }
+    .profile h5 {
+        font-size: 14px;
+    }
+    .profile p {
+        font-size: 12px;
+    }
+    .img-item {
+        position: relative;
+    }
+    .icon-box {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .icon-box ul li:first-child {
+        padding: 1px 5px;
+    }
+    .icon-box ul li {
+        padding: 1px 3px;
+        /* margin: 2px; */
+    }
+    
+    .icon-box ul li:last-child {
+        padding: 3px 3px;
+    }
+    .pro-box:hover {
+        border-bottom: 4px solid #f69165;
+    }
+
+    /* Our Services */
+    .ourservices {
+        padding: 50px 0px;
+        color: #5e5e5e;
+    }
+
+    .rw{
+        margin-top: 20px;
+    }
+    .service {
+        padding: 10px 12px;
+    }
+    .service a {
+        font-size: 12px;
+    }
+    .service p {
+        font-size: 12px;
+        padding-top: 8px;
+    }
+    .icon{
+        justify-content: center;
+    }
+    .icon i {
+        font-size: 18px;
+        padding-right: 10px;
+    }
+    .icon h5 {
+        font-size: 14px;
+        text-align: left!important;
+    }
+    
+    /* Our plan */
+
+    .ourplan {
+        padding: 50px 0px;
+    }
+    .plan {
+        padding: 25px 0px;
+    }
+    .plan h3 {
+        font-size: 18px;
+    }
+    .plan p {
+        font-size: 14px;
+    }
+    .benifit p {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .benifit p:last-child {
+        margin-bottom: 20px;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+    .price h1 {
+        font-size: 36px;
+        padding-top: 10px;
+    }
+    .price p {
+        font-size: 12px;
+    }
+    .plan .btn-signup {
+        padding: 5px 10px;
+        font-size: 16px;
+    }
+
+    /* Logo area */
+    .logoArea{
+        padding: 50px 0px;
+        min-height: 40vh;
+    }
+    .logoArea .rw{
+        margin-top: 35px;
+    }
+    .logoArea h1{
+        font-size: 30px;
+    }
+    .logoArea p{
+        font-size: 12px;
+    }
+    .logocon .left i {
+        font-size: 12px;
+        margin: 0;
+    }
+    .logocon .left {
+        padding: 0px 5px;
+        top: 68%;
+    }
+    .logocon .right i {
+        font-size: 12px;
+        margin: 0;
+    }
+    .logocon .right {
+        padding: 0px 5px;
+        top: 68%;
+    }
+
+    /* Post area */
+    .post {
+        padding: 30px 0px;
+        text-align: left!important;
+    }
+    .contactdetails{
+        padding: 20px 0px;
+    }
+    .postcon{
+        text-align: center;
+    }
+    .post img{
+        padding-bottom: 45px;
+        width: 50%!important;
+        margin: auto;
+    }
+    .post p {
+        font-size: 12px;
+        margin: 0;
+    }
+    .location .icon {
+        padding: 10px 0px;
+    }
+    .location .text{
+        padding: 0;
+    }
+    .mp{
+        padding-top: 0px;
+        padding-bottom: 40px;
+    }
+    .phonecall .icon {
+        padding: 10px 0px;
+    }
+    .phonecall .text{
+        padding: 0;
+    }
+    .contactdetails h5{
+        font-size: 12px;
+        text-align: left!important;
+    }
+    .contactdetails p{
+        font-size: 10px;
+    }
+    .mail .icon {
+        padding: 10px 0px;
+    }
+    .mail .text{
+        padding: 0;
+    }
+    .mp h1{
+        font-size: 20px;
+        font-weight: 700;
+        margin: 0;
+    }
+    .recentpost .pr{
+        display: flex;
+        text-align: center!important;
+    }
+    .recentpost img{
+        padding-bottom: 0px;
+        margin: auto;
+        width: 20%!important;
+        height: 30%;
+    }
+    .recentpost .text p{
+        font-size: 12px!important;
+        text-align: left!important;
+    }
+    .recentpost span{
+        font-size: 12px;
+    }
+    .cnt{
+        margin: auto!important;
+    }
+    .flw {
+        margin: auto!important;
+        padding: 0px;
+        padding: 0px 15px;
+    }
+    .list{
+        margin: auto!important;
+    }
+    .followlink h4{
+        font-size: 16px;
+        margin-top: 5px;
+        font-weight: 700;
+    }
+    .followlink ul li {
+        padding: 3px 9px;
+    }
+    .followlink ul li a{
+        font-size: 12px;
+        color:white
+    }
+    .btn-custom {
+        padding: 9px 20px;
+        margin: auto;
+        margin-top: 0px;
+        font-size: 12px!important;
+    }
+    /* footer */
+    footer p{
+        font-size: 10px;
+    }
+}
+@media(max-width: 475px){
+    .tphd {
+        padding: 10px 0px;
+    }
+    .tphd img {
+        margin: auto;
+        width: 55%!important;
+    }
+    .cont {
+        padding-top: 10px;
+        margin: 0;
+    }
+    .ctm{
+        display: flex;
+    }
+    .ctm h5 {
+        margin: 0;
+        font-size: 12px;
+        text-align: left!important;
+    }
+    .ctm p {
+        font-size: 8px;
+        margin: 0;
+        text-align: left!important;
+    }
+    .ctm .icon i {
+        font-size: 12px;
+        padding-right: 5px;
+        margin: 0;
+    }
+    .icon h5 {
+        font-size: 11px;
+        text-align: left!important;
+    }
+    .icon i {
+        font-size: 14px;
+        text-align: left!important;
+        padding-right: 2px;
+    }
+    .banner{
+        background-image: url(../images/mainbackground.png);
+    }
+    .btn-custom {
+        padding: 10.5px 18px;
+        margin: auto;
+        margin-top: 0px;
+        font-size: 10px!important;
+    }
+}
+@media(max-width: 418px){
+    .tphd {
+        padding: 10px 0px;
+    }
+    .tphd img {
+        margin: auto;
+        width: 68%!important;
+    }
+    .cont {
+        padding-top: 4px;
+        margin: 0;
+    }
+    .ctm{
+        display: block;
+        
+    }
+    .ctm h5 {
+        margin: 0;
+        font-size: 10px;
+        text-align: center!important;
+    }
+    .ctm p {
+        font-size: 7px;
+        margin: 0;
+        text-align: center!important;
+    }
+    .ctm .icon i {
+        font-size: 8px;
+        padding-right: 0px;
+        margin: 0;
+    }
+    .bnr h2 {
+        font-size: 10px;
+    }
+    .bnr h1 {
+        font-size: 12px;
+    }
+    .banner {
+        min-height: 45vh;
+    }
+    .bnr {
+        align-items: center;
+        text-align: left;
+        top: 40%;
+        left: 0;
+        transform: translate(0, 40%);
+    }
+    .bnr .button a {
+        font-size: 10px;
+        padding: 8px 8px;
+    }
+    .mainprobox {
+        padding: 2px;
+    }
+}
+@media (max-width: 320px){
+    .tphd {
+        padding: 10px 0px;
+    }
+    .tphd img {
+        margin: auto;
+        width: 68%!important;
+    }
+    .cont {
+        padding-top: 4px;
+        margin: 0;
+    }
+    .ctm{
+        display: block;
+        
+    }
+    .ctm h5 {
+        margin: 0;
+        font-size: 8px;
+        text-align: center!important;
+    }
+    .ctm p {
+        font-size: 5px;
+        margin: 0;
+        text-align: center!important;
+    }
+    .ctm .icon i {
+        font-size: 8px;
+        padding-right: 0px;
+        margin: 0;
+    }
+    .navbar-toggler {
+        padding: 4px 4px;
+        font-size: 0.75rem;
+        line-height: 1;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: 4px;
+    }
+    .topBar{
+        padding: 4px 0px;
+    }
+    .topBar a{
+        /* width: 58%; */
+    }
+    .topBar .hg .icon i{
+        font-size: 8px;
+    }
+    .topBar .navbar-light .navbar-nav .nav-link {
+        padding: 4px 0px;
+    }
+    .appoinment a{
+        font-size: 8px;
+    }
+    .menuBar {
+        padding: 2px 0px;
+    }
+    .menuBar .hover-ani{
+        font-size: 8px!important;
+    }
+    .menuBar .navbar-light .navbar-nav .nav-link {
+        color: #fff;
+        font-size: 10px;
+        font-weight: 600;
+        text-transform: uppercase;
+        z-index: 999;
+        padding: 8px 10px;
+    }
+    .appoinment .hover-ani {
+        padding: 0px 10px;
+    }
+    .appoinment i {
+        padding: 13px 0px;
+    }
+    .banner {
+        min-height: 40vh;
+        background-image: url(../images/mainbackground.png);
+    }
+    .bnr{
+        text-align: center!important;
+    }
+    .bnr h2 {
+        font-size: 10px;
+    }
+    .bnr h1{
+        font-size: 12px;
+    }
+    .bnr p {
+        font-size: 8px;
+    }
+    .bnr .button a {
+        font-size: 9px;
+        padding: 8px 8px;
+    }
+    .bnr .btn-book{
+        margin-left: 10px;
+    }
+    .banner i{
+        font-size: 12px;
+    }
+    .banner .right {
+        padding: 2px 5px;
+        top: 45%;
+    }
+    .banner .left {
+        padding: 2px 5px;
+        top: 45%;
+    }
+
+    /* welcome banner */
+
+    .banner-welcome {
+        margin-top: 0px;
+        margin-left: 0px;
+        background-image: none;
+        background-position: center top;
+        background-repeat: no-repeat;
+        background-size: contain;
+        min-height: 20vh;
+        position: relative;
+        text-align: center!important;
+        padding: 20px 0px;
+    }
+    .bgv{
+        justify-content: center!important;
+        padding: 0px 0px;
+    }
+    .banner-welcome h1 {
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .banner-welcome p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .content {
+        padding-bottom: 0px;
+    }
+    .content i {
+        font-size: 20px;
+    }
+    .content h5 {
+        font-size: 12px;
+        font-weight: 700;
+    }
+    .content p {
+        font-size: 9px;
+        margin: 0;
+    }
+
+    /* meet doctors */
+    .meetourdoctor {
+        padding: 20px 0px;
+    }
+    .vb i {
+        font-size: 16px;
+    }
+    .vb h1 {
+        font-size: 22px;
+    }
+    .vb p {
+        font-size: 10px;
+        padding-top: 8px;
+    }
+    .mainprobox {
+        padding: 25px;
+        padding-top: 0;
+    }
+    .pro-box {
+        border-bottom: 4px solid #00cce1;
+        margin-top: 20px;
+    }
+    .profile {
+        text-align: center;
+        padding: 12px 0;
+    }
+    .profile h5 {
+        font-size: 14px;
+    }
+    .profile p {
+        font-size: 12px;
+    }
+    .img-item {
+        position: relative;
+    }
+    .pro-box .img-item .icon-box {
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .icon-box ul li:first-child {
+        padding: 0px 3px;
+    }
+    .icon-box ul li {
+        padding: 0px 2px;
+        /* margin: 2px; */
+    }
+    .icon-box ul li i{
+        font-size: 8px;
+    }
+    .pro-box:hover {
+        border-bottom: 4px solid #f69165;
+    }
+
+    /* Our Services */
+    .ourservices {
+        padding: 20px 0px;
+        color: #5e5e5e;
+    }
+
+    .rw {
+        margin-top: 12px;
+        padding: 0px 5px;
+    }
+    .service {
+        padding: 10px 12px;
+    }
+    .service a {
+        font-size: 10px;
+    }
+    .service p {
+        font-size: 10px;
+        padding-top: 8px;
+        margin: 0;
+    }
+    .service .icon{
+        justify-content: center;
+    }
+    .service .icon i {
+        font-size: 12px;
+        padding-right: 4px;
+        /* padding-top: 5px; */
+    }
+    .service .icon h5 {
+        font-size: 8px;
+        margin: 0;
+        margin-top: 1px;
+        font-weight: 700;
+        text-align: left;
+    }
+    
+    /* Our plan */
+
+    .ourplan {
+        padding: 50px 0px;
+    }
+    .plan {
+        padding: 25px 0px;
+    }
+    .plan h3 {
+        font-size: 13px;
+    }
+    .plan p {
+        font-size: 9px;
+    }
+    .benifit p {
+        font-size: 8px;
+        margin-bottom: 10px;
+    }
+    .benifit p:last-child {
+        margin-bottom: 20px;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+    .price h1 {
+        font-size: 20px;
+        padding-top: 7px;
+    }
+    .price p {
+        font-size: 10px;
+    }
+    .plan .btn-signup {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+
+    /* Logo area */
+    .logoArea{
+        padding: 50px 0px;
+    }
+    .logoArea .rw{
+        margin-top: 35px;
+    }
+    .logoArea h1{
+        font-size: 30px;
+    }
+    .logoArea p{
+        font-size: 12px;
+    }
+    .logocon .left i {
+        font-size: 10px;
+        margin: 0;
+    }
+    .logocon .left {
+        padding: 0px 4px;
+        top: 77%;
+    }
+    .logocon .right i {
+        font-size: 10px;
+        margin: 0;
+    }
+    .logocon .right {
+        padding: 0px 4px;
+        top: 77%;
+    }
+
+    /* Post area */
+    .post {
+        padding: 25px 0px;
+        text-align: left!important;
+    }
+    .contactdetails{
+        padding: 20px 0px;
+    }
+    .postcon{
+        text-align: center;
+    }
+    .post img{
+        padding-bottom: 25px;
+        width: 64%!important;
+        margin: auto;
+    }
+    .post p {
+        font-size: 10px;
+        margin: 0;
+    }
+    .location .text{
+        padding: 0;
+    }
+    .mp {
+        padding-top: 0px;
+        padding-bottom: 25px;
+    }
+    .phonecall .text{
+        padding: 0;
+    }
+    .contactdetails h5{
+        font-size: 10px;
+        text-align: left!important;
+    }
+    .contactdetails p{
+        font-size: 8px;
+    }
+    .contactdetails .icon i {
+        font-size: 12px;
+    }
+    .contactdetails .icon {
+        padding: 0;
+    }
+    .d320{
+        padding-bottom: 5px;
+    }
+    .cnt{
+        margin: auto!important;
+    }
+    .mail .text{
+        padding: 0;
+    }
+    .mp h1{
+        font-size: 14px;
+        font-weight: 700;
+    }
+    .recentpost .pr{
+        display: flex;
+        text-align: center!important;
+    }
+    .recentpost img {
+        padding-bottom: 0px;
+        margin: auto;
+        width: 19%!important;
+    }
+    .recentpost .text p{
+        font-size: 8px!important;
+        text-align: left!important;
+    }
+    .recentpost span{
+        font-size: 6px;
+    }
+    .input-group {
+        display: block;
+    }
+    .flw {
+        margin: auto!important;
+        padding: 0px;
+        padding: 0px 15px;
+    }
+    .list{
+        margin: auto!important;
+    }
+    .followlink h4 {
+        font-size: 12px;
+        margin: 0;
+        font-weight: 700;
+    }
+    .followlink ul li {
+        padding: 2px 5px;
+    }
+    .followlink ul li {
+        padding: 2px 5px;
+    }
+    .followlink ul li:first-child{
+        padding: 1px 7px;
+    }
+    .btn-custom {
+        padding: 8px 18px;
+        margin: auto;
+        margin-top: 7px;
+        font-size: 10px!important;
+    }
+    /* footer */
+    footer p{
+        font-size: 10px;
+    }
+}
