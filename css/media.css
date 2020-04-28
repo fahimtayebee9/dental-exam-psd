@@ -86,7 +86,7 @@
     /* Banner part */
 
     .banner {
-        min-height: 70vh;
+        min-height: 90vh;
     }
     .bnr h2 {
         font-size: 24px;
@@ -812,7 +812,7 @@
         background-size: 318px;
     }
     .banner {
-        min-height: 65vh;
+        min-height: 85vh;
     }
     .mainprobox {
         padding: 0px;
@@ -927,7 +927,7 @@
     /* Banner part */
 
     .banner {
-        min-height: 60vh;
+        min-height: 80vh;
     }
     .bnr{
         text-align: center!important;
@@ -1346,7 +1346,7 @@
         padding: 11px 0px;
     }
     .banner {
-        min-height: 50vh;
+        min-height: 80vh;
     }
     .bnr{
         text-align: center!important;
@@ -1758,7 +1758,7 @@
         font-size: 12px;
     }
     .banner {
-        min-height: 45vh;
+        min-height: 80vh;
     }
     .bnr {
         align-items: center;
@@ -1850,7 +1850,7 @@
         padding: 13px 0px;
     }
     .banner {
-        min-height: 40vh;
+        min-height: 80vh;
         background-image: url(../images/mainbackground.png);
     }
     .bnr{
