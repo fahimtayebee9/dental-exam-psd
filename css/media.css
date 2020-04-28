@@ -1933,7 +1933,7 @@
         font-size: 16px;
     }
     .vb h1 {
-        font-size: 22px;
+        font-size: 19px;
     }
     .vb p {
         font-size: 10px;
@@ -2025,10 +2025,10 @@
         padding: 25px 0px;
     }
     .plan h3 {
-        font-size: 13px;
+        font-size: 11px;
     }
     .plan p {
-        font-size: 9px;
+        font-size: 7px;
     }
     .benifit p {
         font-size: 8px;
@@ -2046,6 +2046,7 @@
     }
     .price p {
         font-size: 10px;
+        padding-bottom: 8px;
     }
     .plan .btn-signup {
         padding: 5px 10px;
@@ -2060,7 +2061,7 @@
         margin-top: 35px;
     }
     .logoArea h1{
-        font-size: 30px;
+        font-size: 26px;
     }
     .logoArea p{
         font-size: 12px;
