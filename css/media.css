@@ -1346,7 +1346,7 @@
         padding: 11px 0px;
     }
     .banner {
-        min-height: 80vh;
+        min-height: 90vh;
     }
     .bnr{
         text-align: center!important;
@@ -1406,10 +1406,10 @@
         padding-bottom: 0px;
     }
     .content i {
-        font-size: 20px;
+        font-size: 18px;
     }
     .content h5 {
-        font-size: 17px;
+        font-size: 14px;
     }
     .content p {
         font-size: 12px;
@@ -1423,7 +1423,7 @@
         font-size: 24px;
     }
     .vb h1 {
-        font-size: 30px;
+        font-size: 26px;
     }
     .vb p {
         font-size: 12px;
@@ -1508,7 +1508,7 @@
         padding: 25px 0px;
     }
     .plan h3 {
-        font-size: 18px;
+        font-size: 16px;
     }
     .plan p {
         font-size: 14px;
@@ -1719,6 +1719,9 @@
         margin-top: 0px;
         font-size: 10px!important;
     }
+    .plan p {
+        font-size: 12px;
+    }
 }
 @media(max-width: 418px){
     .tphd {
@@ -1773,6 +1776,9 @@
     }
     .mainprobox {
         padding: 2px;
+    }
+    .plan p {
+        font-size: 12px;
     }
 }
 @media (max-width: 320px){
